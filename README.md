@@ -12,7 +12,7 @@
 2. Склонируйте репозиторий:
 
    
-   git clone https://github.com/your_username/password_generator.git
+   git clone https://github.com/AlexanderUrchencoRu/Password_Generator.git
    
 
 3. Запустите приложение:
